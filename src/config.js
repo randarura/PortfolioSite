@@ -6,7 +6,6 @@ module.exports = {
       name: 'GitHub',
       url: 'https://github.com/randarura',
     },
-    /*
     {
       name: 'Instagram',
       // url: 'https://www.instagram.com/bchiang7',
@@ -23,7 +22,6 @@ module.exports = {
       name: 'Codepen',
       // url: 'https://codepen.io/bchiang7',
     },
-    */
   ],
 
   navLinks: [
